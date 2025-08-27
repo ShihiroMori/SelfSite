@@ -234,7 +234,7 @@
 
 .footer-div {
     width: 100vw;
-    height: 5vh;
+    height: 10vh;
     text-align: center;
     position: fixed;
     bottom: 0;
@@ -249,4 +249,5 @@
     user-select: none;
     font-family: 'Josefin Sans';
     font-weight: 300;
+    margin: 1vw;
 }
